@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication3", "WindowsFormsApplication3\WindowsFormsApplication3.csproj", "{A33B2F13-1F45-4BA5-9DBE-9DE1C040D582}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadYourPaperBackwards", "WindowsFormsApplication3\ReadYourPaperBackwards.csproj", "{A33B2F13-1F45-4BA5-9DBE-9DE1C040D582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
